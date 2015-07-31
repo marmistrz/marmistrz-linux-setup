@@ -1,4 +1,4 @@
-Also applies to: Ubuntu Trusty"
+Also applies to: Ubuntu Trusty
 
 Install the system with separate /home and /
 
@@ -10,5 +10,4 @@ Core stuff now: TLP and Bumblebee
     apt-get install tlp tlp-rdw 
     apt-get install bumblebee bumblebee-nvidia primus linux-headers-generic nvidia-346
 
-
-	
+On Ubuntu use other drivers instead (which?)
