@@ -30,7 +30,8 @@ Install RAVE-X and set it up (maybe automatically would be feasible?)
 Install bumblebee-ui.
 Override the date format in lockscreen (FIXME: to what?)
 
-Copy the config files (setting brightness on boot)
+Copy the config files (fix Redshift, setting brightness on boot) // FIXME: deprecate brightness hack in favor of sysvinit-brightness
+Remember to change your username in `conf/home`!!!
 
     cp -av conf/* /
 
