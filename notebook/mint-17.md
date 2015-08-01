@@ -33,3 +33,7 @@ Override the date format in lockscreen (FIXME: to what?)
 Copy the config files (setting brightness on boot)
 
     cp -av conf/* /
+
+Enable git password caching
+
+    git config --global credential.helper cache
